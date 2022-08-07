@@ -1,0 +1,4 @@
+﻿  NetoClass2.cpp
+C:\Users\DendriDoDenido\source\repos\NetoClass2\NetoClass2\NetoClass2.cpp(53,9): warning C4101: comm1: неиспользованная локальная переменная
+C:\Users\DendriDoDenido\source\repos\NetoClass2\NetoClass2\NetoClass2.cpp(51,9): warning C4101: count: неиспользованная локальная переменная
+  NetoClass2.vcxproj -> C:\Users\DendriDoDenido\source\repos\NetoClass2\x64\Debug\NetoClass2.exe
